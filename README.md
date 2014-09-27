@@ -1,8 +1,21 @@
 Elegant-Digital-Clock
 =====================
 
+A/  head script
 
-go to your selected page and paste the following HTML code via "embed code" element:
+paste the following HTML code via the HEAD of  your page:
+
+https://github.com/alidz1982/Elegant-Digital-Clock/blob/master/head%20script.php
+
+
+
+
+
+
+
+B /  go to your selected page and paste the following HTML code via the BODY of  your page:
+
+
 
 1-  Elegant-Digital-Clock dark theme
 

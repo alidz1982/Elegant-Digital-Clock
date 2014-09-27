@@ -1,3 +1,9 @@
+
+embed code (dark theme) 
+
+
+
+
 <div id="clock" class="dark">
     <div class="display">
         <div class="weekdays"></div>
